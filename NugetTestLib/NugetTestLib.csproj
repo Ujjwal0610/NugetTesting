@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Ujjwal.Library</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ujjwal Patel</Authors>
+    <Description>A utility library for printing messages to the console.</Description>
+    <PackageTags>utility;console</PackageTags>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
